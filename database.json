@@ -1,0 +1,1374 @@
+  [
+  {
+    "nombre": "Desierto de la Tatacoa",
+    "pais": "Colombia",
+    "cuidad": "Huila",
+    "clima": "Seco",
+    "idioma": "Español",
+    "actividades": [
+      "Avistamiento de ovnis",
+      "Observación de las estrellas en el Observatorio de la Tatacoa",
+      "Piscinas de agua de manantial",
+      "Excursiones",
+      "Museo paleontológico"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar",
+      "Romantico",
+      "Dark"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Gran Cañón",
+    "pais": "Estados Unidos",
+    "ciudad": "Arizona",
+    "clima": "Seco",
+    "idioma": "Inglés",
+    "actividades": [
+      "Senderismo",
+      "Paseos en helicóptero",
+      "Rafting",
+      "Acampada",
+      "Observación de la vida silvestre"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Torre Eiffel",
+    "pais": "Francia",
+    "ciudad": "París",
+    "clima": "Continental",
+    "idioma": "Francés",
+    "actividades": [
+      "Visitas guiadas",
+      "Cenas en restaurantes",
+      "Paseos en barco por el Sena",
+      "Visitas a museos",
+      "Shopping"
+    ],
+    "turismo": [
+      "Romantico",
+      "Familiar"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Gran Barrera de Coral",
+    "pais": "Australia",
+    "ciudad": "Queensland",
+    "clima": "Tropical",
+    "idioma": "Inglés",
+    "actividades": [
+      "Buceo",
+      "Snorkel",
+      "Paseos en barco",
+      "Observación de la vida marina",
+      "Visitas a islas"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 250
+  },
+  {
+    "nombre": "Safari en el Serengeti",
+    "pais": "Tanzania",
+    "ciudad": "Serengeti",
+    "clima": "Seco",
+    "idioma": "Suajili, Inglés",
+    "actividades": [
+      "Safari en jeep",
+      "Paseos en globo aerostático",
+      "Observación de la vida salvaje",
+      "Fotografía de naturaleza",
+      "Acampada"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Dark"
+    ],
+    "presupuesto": 300
+  },
+  {
+    "nombre": "Templos de Angkor",
+    "pais": "Camboya",
+    "ciudad": "Siem Reap",
+    "clima": "Tropical",
+    "idioma": "Jemer",
+    "actividades": [
+      "Tours guiados",
+      "Exploración de ruinas",
+      "Paseos en bicicleta",
+      "Visitas a pueblos locales",
+      "Gastronomía local"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Machu Picchu",
+    "pais": "Perú",
+    "ciudad": "Cusco",
+    "clima": "Tropical",
+    "idioma": "Español, Quechua",
+    "actividades": [
+      "Trekking por el Camino Inca",
+      "Visitas arqueológicas",
+      "Exploración de la ciudadela",
+      "Observación de la fauna y flora local",
+      "Fotografía"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Dark"
+    ],
+    "presupuesto": 180
+  },
+  {
+    "nombre": "Muralla China",
+    "pais": "China",
+    "ciudad": "Beijing",
+    "clima": "Continental",
+    "idioma": "Mandarín",
+    "actividades": [
+      "Caminatas por la muralla",
+      "Visitas culturales",
+      "Degustación de comida local",
+      "Fotografía panorámica",
+      "Tours históricos"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Parque Nacional de Yellowstone",
+    "pais": "Estados Unidos",
+    "ciudad": "Wyoming",
+    "clima": "Polar",
+    "idioma": "Inglés",
+    "actividades": [
+      "Observación de géiseres y formaciones termales",
+      "Senderismo",
+      "Avistamiento de fauna salvaje",
+      "Fotografía de paisajes",
+      "Acampada"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar",
+      "Dark"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Santorini",
+    "pais": "Grecia",
+    "ciudad": "Santorini",
+    "clima": "Continental",
+    "idioma": "Griego",
+    "actividades": [
+      "Visitas a playas de arena volcánica",
+      "Degustación de vinos locales",
+      "Cruceros al atardecer",
+      "Exploración de ruinas antiguas",
+      "Fotografía de paisajes"
+    ],
+    "turismo": [
+      "Romantico",
+      "Familiar"
+    ],
+    "presupuesto": 250
+  },
+  {
+    "nombre": "Monte Fuji",
+    "pais": "Japón",
+    "ciudad": "Shizuoka y Yamanashi",
+    "clima": "Templado",
+    "idioma": "Japonés",
+    "actividades": [
+      "Escalada",
+      "Visitas a lagos cercanos",
+      "Observación de la floración de los cerezos",
+      "Fotografía de paisajes",
+      "Visitas a santuarios"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Islas Maldivas",
+    "pais": "Maldivas",
+    "ciudad": "Malé",
+    "clima": "Tropical",
+    "idioma": "Dhivehi",
+    "actividades": [
+      "Buceo y snorkel",
+      "Relajación en playas",
+      "Cruceros en yate",
+      "Pesca deportiva",
+      "Spa y bienestar"
+    ],
+    "turismo": [
+      "Romantico",
+      "Familiar"
+    ],
+    "presupuesto": 300
+  },
+  {
+    "nombre": "Safari en el Desierto del Sahara",
+    "pais": "Marruecos",
+    "ciudad": "Merzouga",
+    "clima": "Seco",
+    "idioma": "Árabe, Bereber",
+    "actividades": [
+      "Paseos en camello",
+      "Acampada en el desierto",
+      "Observación de estrellas",
+      "Excursiones en quad",
+      "Visitas a comunidades locales"
+    ],
+    "turismo": [
+      "Aventura",
+      "Dark"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Castillos del Loira",
+    "pais": "Francia",
+    "ciudad": "Valle del Loira",
+    "clima": "Templado",
+    "idioma": "Francés",
+    "actividades": [
+      "Visitas a castillos",
+      "Degustación de vinos",
+      "Paseos en bicicleta",
+      "Excursiones en barco por el río",
+      "Tours culturales"
+    ],
+    "turismo": [
+      "Cultural",
+      "Familiar"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Lago Baikal",
+    "pais": "Rusia",
+    "ciudad": "Siberia",
+    "clima": "Continental",
+    "idioma": "Ruso",
+    "actividades": [
+      "Trekking",
+      "Observación de la vida silvestre",
+      "Paseos en barco",
+      "Pesca en hielo",
+      "Visitas a pueblos siberianos"
+    ],
+    "turismo": [
+      "Aventura",
+      "Dark"
+    ],
+    "presupuesto": 180
+  },
+  {
+    "nombre": "Estación de Investigación Vernadsky",
+    "pais": "Antártida",
+    "ciudad": "Isla Galíndez",
+    "clima": "Polar",
+    "idioma": "Ruso, Inglés",
+    "actividades": [
+      "Observación de pingüinos",
+      "Visitas a glaciares",
+      "Cruceros en zodiac",
+      "Fotografía de paisajes helados",
+      "Tours educativos"
+    ],
+    "turismo": [
+      "Educativo",
+      "Aventura"
+    ],
+    "presupuesto": 500
+  },
+  {
+    "nombre": "Ciudad Amurallada de Cartagena",
+    "pais": "Colombia",
+    "ciudad": "Cartagena",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Recorridos históricos por la ciudad",
+      "Visitas a playas",
+      "Paseos en barco",
+      "Gastronomía local",
+      "Compras artesanales"
+    ],
+    "turismo": [
+      "Cultural",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Parque Nacional Natural Tayrona",
+    "pais": "Colombia",
+    "ciudad": "Santa Marta",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Senderismo",
+      "Snorkeling",
+      "Avistamiento de fauna y flora",
+      "Acampada",
+      "Playas"
+    ],
+    "turismo": [
+      "Aventura",
+      "Familiar"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Eje Cafetero",
+    "pais": "Colombia",
+    "ciudad": "Armenia, Pereira, Manizales",
+    "clima": "Templado",
+    "idioma": "Español",
+    "actividades": [
+      "Tours de café",
+      "Visitas a fincas cafeteras",
+      "Parques temáticos",
+      "Senderismo",
+      "Observación de aves"
+    ],
+    "turismo": [
+      "Cultural",
+      "Familiar"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Desierto de la Guajira",
+    "pais": "Colombia",
+    "ciudad": "La Guajira",
+    "clima": "Seco",
+    "idioma": "Español, Wayuunaiki",
+    "actividades": [
+      "Visitas a comunidades indígenas",
+      "Exploración del desierto",
+      "Playas vírgenes",
+      "Observación de aves",
+      "Fotografía de paisajes"
+    ],
+    "turismo": [
+      "Aventura",
+      "Cultural"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "ciudad": "Bogotá",
+    "clima": "Templado",
+    "idioma": "Español",
+    "actividades": [
+      "Visitas a museos",
+      "Recorridos históricos",
+      "Gastronomía local",
+      "Vida nocturna",
+      "Compras"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 130
+  },
+  {
+    "nombre": "Cusco",
+    "pais": "Perú",
+    "ciudad": "Cusco",
+    "clima": "Templado",
+    "idioma": "Español, Quechua",
+    "actividades": [
+      "Visitas a sitios arqueológicos incas",
+      "Recorridos por el centro histórico",
+      "Gastronomía local",
+      "Mercados artesanales",
+      "Excursiones a las montañas"
+    ],
+    "turismo": [
+      "Cultural",
+      "Aventura"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Lago Titicaca",
+    "pais": "Perú",
+    "ciudad": "Puno",
+    "clima": "Templado",
+    "idioma": "Español, Aymara",
+    "actividades": [
+      "Visitas a las islas flotantes de los Uros",
+      "Paseos en barco",
+      "Exploración de ruinas preincas",
+      "Turismo comunitario",
+      "Observación de aves"
+    ],
+    "turismo": [
+      "Cultural",
+      "Ecológico"
+    ],
+    "presupuesto": 80
+  },
+  {
+    "nombre": "Arequipa y el Cañón del Colca",
+    "pais": "Perú",
+    "ciudad": "Arequipa",
+    "clima": "Seco",
+    "idioma": "Español",
+    "actividades": [
+      "Visitas al centro histórico",
+      "Trekking en el Cañón del Colca",
+      "Observación de cóndores",
+      "Gastronomía local",
+      "Visitas a baños termales"
+    ],
+    "turismo": [
+      "Cultural",
+      "Aventura"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Riviera Maya",
+    "pais": "México",
+    "ciudad": "Quintana Roo",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Playas paradisíacas",
+      "Buceo en cenotes",
+      "Visitas a ruinas mayas",
+      "Parques ecológicos",
+      "Gastronomía local"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Ciudad de México",
+    "pais": "México",
+    "ciudad": "Ciudad de México",
+    "clima": "Templado",
+    "idioma": "Español",
+    "actividades": [
+      "Museos y galerías de arte",
+      "Recorridos históricos",
+      "Gastronomía local",
+      "Espectáculos y vida nocturna",
+      "Parques y espacios abiertos"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Oaxaca",
+    "pais": "México",
+    "ciudad": "Oaxaca",
+    "clima": "Templado",
+    "idioma": "Español",
+    "actividades": [
+      "Visitas a zonas arqueológicas",
+      "Talleres de artesanías",
+      "Gastronomía tradicional",
+      "Festivales culturales",
+      "Exploración de la naturaleza"
+    ],
+    "turismo": [
+      "Cultural",
+      "Gastronómico"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Museo Británico",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "clima": "Templado",
+    "idioma": "Inglés",
+    "actividades": [
+      "Exploración de antigüedades",
+      "Exposiciones culturales",
+      "Visitas guiadas",
+      "Conferencias y talleres",
+      "Fotografía de arte"
+    ],
+    "turismo": [
+      "Cultural",
+      "Educativo"
+    ],
+    "presupuesto": 50
+  },
+  {
+    "nombre": "London Eye",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "clima": "Templado",
+    "idioma": "Inglés",
+    "actividades": [
+      "Vistas panorámicas de la ciudad",
+      "Paseos en cápsula",
+      "Fotografía de paisajes urbanos",
+      "Experiencias gastronómicas",
+      "Cruceros por el río Támesis"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 40
+  },
+  {
+    "nombre": "Palacio de Buckingham",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "clima": "Templado",
+    "idioma": "Inglés",
+    "actividades": [
+      "Cambio de guardia",
+      "Visitas a salas de estado",
+      "Exploración de los jardines reales",
+      "Exposiciones de arte",
+      "Fotografía de arquitectura"
+    ],
+    "turismo": [
+      "Cultural",
+      "Familiar"
+    ],
+    "presupuesto": 60
+  },
+  {
+    "nombre": "Torre de Londres",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "clima": "Templado",
+    "idioma": "Inglés",
+    "actividades": [
+      "Visitas a las Joyas de la Corona",
+      "Recorridos históricos",
+      "Exhibiciones de armaduras",
+      "Fotografía de la arquitectura medieval",
+      "Eventos temáticos"
+    ],
+    "turismo": [
+      "Cultural",
+      "Dark"
+    ],
+    "presupuesto": 55
+  },
+  {
+    "nombre": "Camden Market",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "clima": "Templado",
+    "idioma": "Inglés",
+    "actividades": [
+      "Compras en mercados de arte",
+      "Degustación de comida callejera",
+      "Exploración de tiendas vintage",
+      "Música en vivo",
+      "Paseos por el canal"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Gastronómico"
+    ],
+    "presupuesto": 30
+  },
+  {
+    "nombre": "Bali",
+    "pais": "Indonesia",
+    "ciudad": "Bali",
+    "clima": "Tropical",
+    "idioma": "Indonesio",
+    "actividades": [
+      "Playas y surf",
+      "Templos y ceremonias culturales",
+      "Yoga y retiros de bienestar",
+      "Excursiones a volcanes",
+      "Buceo y snorkel"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Borobudur",
+    "pais": "Indonesia",
+    "ciudad": "Java Central",
+    "clima": "Tropical",
+    "idioma": "Indonesio",
+    "actividades": [
+      "Visitas al templo budista",
+      "Fotografía de amaneceres",
+      "Exploración de pueblos cercanos",
+      "Ciclismo por el campo",
+      "Degustación de comida local"
+    ],
+    "turismo": [
+      "Cultural",
+      "Educativo"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Komodo",
+    "pais": "Indonesia",
+    "ciudad": "Nusa Tenggara Oriental",
+    "clima": "Tropical",
+    "idioma": "Indonesio",
+    "actividades": [
+      "Avistamiento del dragón de Komodo",
+      "Buceo y snorkel",
+      "Excursiones en barco",
+      "Trekking",
+      "Playas"
+    ],
+    "turismo": [
+      "Aventura",
+      "Ecológico"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Parque Nacional Virunga",
+    "pais": "República Democrática del Congo",
+    "ciudad": "Kivu del Norte",
+    "clima": "Tropical",
+    "idioma": "Francés, Swahili",
+    "actividades": [
+      "Trekking para ver gorilas de montaña",
+      "Visitas a los volcanes",
+      "Safaris fotográficos",
+      "Observación de chimpancés",
+      "Caminatas por la selva"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Aventura"
+    ],
+    "presupuesto": 300
+  },
+  {
+    "nombre": "Cataratas de Zongo",
+    "pais": "República Democrática del Congo",
+    "ciudad": "Kinshasa",
+    "clima": "Tropical",
+    "idioma": "Francés, Lingala",
+    "actividades": [
+      "Senderismo",
+      "Picnic y relajación",
+      "Fotografía de paisajes",
+      "Exploración de la flora y fauna local",
+      "Natación"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 50
+  },
+  {
+    "nombre": "La Habana",
+    "pais": "Cuba",
+    "ciudad": "La Habana",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Recorridos por el casco histórico",
+      "Visitas a bares y clubes de jazz",
+      "Degustación de comida criolla",
+      "Paseos en autos clásicos",
+      "Espectáculos de salsa y baile"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Varadero",
+    "pais": "Cuba",
+    "ciudad": "Varadero",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Playas y deportes acuáticos",
+      "Buceo y snorkel",
+      "Excursiones en barco",
+      "Golf",
+      "Visitas a reservas naturales"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Trinidad",
+    "pais": "Cuba",
+    "ciudad": "Sancti Spíritus",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Exploración de la arquitectura colonial",
+      "Visitas a museos y galerías",
+      "Paseos a caballo",
+      "Trekking en el Parque Natural Topes de Collantes",
+      "Playas cercanas como Playa Ancón"
+    ],
+    "turismo": [
+      "Cultural",
+      "Aventura"
+    ],
+    "presupuesto": 80
+  },
+  {
+    "nombre": "Parque Nacional Alejandro de Humboldt",
+    "pais": "Cuba",
+    "ciudad": "Guantánamo y Holguín",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Trekking y senderismo",
+      "Observación de flora y fauna endémicas",
+      "Exploración de ríos y cascadas",
+      "Fotografía de paisajes",
+      "Visitas guiadas ecológicas"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Aventura"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "La Habana",
+    "pais": "Cuba",
+    "ciudad": "La Habana",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Recorridos por el casco histórico",
+      "Visitas a bares y clubes de jazz",
+      "Degustación de comida criolla",
+      "Paseos en autos clásicos",
+      "Espectáculos de salsa y baile"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Varadero",
+    "pais": "Cuba",
+    "ciudad": "Varadero",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Playas y deportes acuáticos",
+      "Buceo y snorkel",
+      "Excursiones en barco",
+      "Golf",
+      "Visitas a reservas naturales"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Trinidad",
+    "pais": "Cuba",
+    "ciudad": "Sancti Spíritus",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Exploración de la arquitectura colonial",
+      "Visitas a museos y galerías",
+      "Paseos a caballo",
+      "Trekking en el Parque Natural Topes de Collantes",
+      "Playas cercanas como Playa Ancón"
+    ],
+    "turismo": [
+      "Cultural",
+      "Aventura"
+    ],
+    "presupuesto": 80
+  },
+  {
+    "nombre": "Parque Nacional Alejandro de Humboldt",
+    "pais": "Cuba",
+    "ciudad": "Guantánamo y Holguín",
+    "clima": "Tropical",
+    "idioma": "Español",
+    "actividades": [
+      "Trekking y senderismo",
+      "Observación de flora y fauna endémicas",
+      "Exploración de ríos y cascadas",
+      "Fotografía de paisajes",
+      "Visitas guiadas ecológicas"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Aventura"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Berlín",
+    "pais": "Alemania",
+    "ciudad": "Berlín",
+    "clima": "Templado",
+    "idioma": "Alemán",
+    "actividades": [
+      "Visitas a monumentos históricos como el Muro de Berlín",
+      "Recorridos por museos y galerías de arte",
+      "Exploración de la escena gastronómica y de cervezas",
+      "Paseos por barrios bohemios",
+      "Vida nocturna y clubes"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Múnich",
+    "pais": "Alemania",
+    "ciudad": "Múnich",
+    "clima": "Continental",
+    "idioma": "Alemán",
+    "actividades": [
+      "Visita al Oktoberfest",
+      "Recorridos por el centro histórico",
+      "Degustación de platos bávaros",
+      "Visitas a castillos cercanos",
+      "Exploración de parques y jardines"
+    ],
+    "turismo": [
+      "Cultural",
+      "Festivo"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Castillo de Neuschwanstein",
+    "pais": "Alemania",
+    "ciudad": "Baviera",
+    "clima": "Continental",
+    "idioma": "Alemán",
+    "actividades": [
+      "Visitas guiadas al castillo",
+      "Senderismo en los Alpes Bávaros",
+      "Fotografía de paisajes",
+      "Visitas a pueblos cercanos",
+      "Degustación de comida local"
+    ],
+    "turismo": [
+      "Cultural",
+      "Romantico"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Selva Negra",
+    "pais": "Alemania",
+    "ciudad": "Baden-Württemberg",
+    "clima": "Continental",
+    "idioma": "Alemán",
+    "actividades": [
+      "Senderismo y ciclismo",
+      "Visitas a spas termales",
+      "Degustación de la tarta Selva Negra",
+      "Exploración de pueblos tradicionales",
+      "Esquí en invierno"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Familiar"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Valle del Rin",
+    "pais": "Alemania",
+    "ciudad": "Rin",
+    "clima": "Templado",
+    "idioma": "Alemán",
+    "actividades": [
+      "Cruceros por el río Rin",
+      "Visitas a castillos y ruinas",
+      "Degustación de vinos en viñedos locales",
+      "Ciclismo a lo largo del río",
+      "Fotografía de paisajes"
+    ],
+    "turismo": [
+      "Cultural",
+      "Romantico"
+    ],
+    "presupuesto": 130
+  },
+  {
+    "nombre": "Bridgetown",
+    "pais": "Barbados",
+    "ciudad": "Bridgetown",
+    "clima": "Tropical",
+    "idioma": "Inglés",
+    "actividades": [
+      "Recorridos históricos por la ciudad",
+      "Visitas a playas",
+      "Buceo y snorkel",
+      "Gastronomía local y degustación de ron",
+      "Compras en mercados y tiendas"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Costa Sur",
+    "pais": "Barbados",
+    "ciudad": "Costa Sur",
+    "clima": "Tropical",
+    "idioma": "Inglés",
+    "actividades": [
+      "Playas y deportes acuáticos",
+      "Vida nocturna y entretenimiento",
+      "Golf y tenis",
+      "Spa y bienestar",
+      "Observación de tortugas marinas"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Río de Janeiro",
+    "pais": "Brasil",
+    "ciudad": "Río de Janeiro",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Visita al Cristo Redentor",
+      "Playas icónicas como Copacabana e Ipanema",
+      "Teleférico al Pan de Azúcar",
+      "Carnaval y samba",
+      "Tours por la ciudad y favelas"
+    ],
+    "turismo": [
+      "Cultural",
+      "Festivo"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Salvador",
+    "pais": "Brasil",
+    "ciudad": "Bahía",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Recorridos por el centro histórico de Pelourinho",
+      "Espectáculos de capoeira",
+      "Playas como Porto da Barra",
+      "Gastronomía afro-brasileña",
+      "Visitas a iglesias y museos"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Amazonas",
+    "pais": "Brasil",
+    "ciudad": "Manaus",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Cruceros por el río Amazonas",
+      "Observación de la fauna y flora selvática",
+      "Visitas a comunidades indígenas",
+      "Pesca de pirañas",
+      "Excursiones de selva"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Aventura"
+    ],
+    "presupuesto": 250
+  },
+  {
+    "nombre": "Río de Janeiro",
+    "pais": "Brasil",
+    "ciudad": "Río de Janeiro",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Visita al Cristo Redentor",
+      "Playas icónicas como Copacabana e Ipanema",
+      "Teleférico al Pan de Azúcar",
+      "Carnaval y samba",
+      "Tours por la ciudad y favelas"
+    ],
+    "turismo": [
+      "Cultural",
+      "Festivo"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Salvador",
+    "pais": "Brasil",
+    "ciudad": "Bahía",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Recorridos por el centro histórico de Pelourinho",
+      "Espectáculos de capoeira",
+      "Playas como Porto da Barra",
+      "Gastronomía afro-brasileña",
+      "Visitas a iglesias y museos"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Amazonas",
+    "pais": "Brasil",
+    "ciudad": "Manaus",
+    "clima": "Tropical",
+    "idioma": "Portugués",
+    "actividades": [
+      "Cruceros por el río Amazonas",
+      "Observación de la fauna y flora selvática",
+      "Visitas a comunidades indígenas",
+      "Pesca de pirañas",
+      "Excursiones de selva"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Aventura"
+    ],
+    "presupuesto": 250
+  },
+  {
+    "nombre": "Banff y el Parque Nacional de Banff",
+    "pais": "Canadá",
+    "ciudad": "Alberta",
+    "clima": "Continental",
+    "idioma": "Inglés, Francés",
+    "actividades": [
+      "Trekking en las Montañas Rocosas",
+      "Esquí y deportes de invierno",
+      "Paseos en canoa en el Lago Louise",
+      "Baños termales",
+      "Fotografía de paisajes naturales"
+    ],
+    "turismo": [
+      "Aventura",
+      "Ecológico"
+    ],
+    "presupuesto": 200
+  },
+  {
+    "nombre": "Toronto",
+    "pais": "Canadá",
+    "ciudad": "Ontario",
+    "clima": "Continental",
+    "idioma": "Inglés",
+    "actividades": [
+      "Visitas a la Torre CN",
+      "Exploración del Distillery District",
+      "Visitas a museos y galerías de arte",
+      "Excursiones a las Cataratas del Niágara",
+      "Vida nocturna y gastronomía"
+    ],
+    "turismo": [
+      "Cultural",
+      "Recreativo"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "El Cairo",
+    "pais": "Egipto",
+    "ciudad": "El Cairo",
+    "clima": "Seco",
+    "idioma": "Árabe",
+    "actividades": [
+      "Visitas a las pirámides de Giza y la Esfinge",
+      "Exploración del Museo Egipcio",
+      "Recorridos por el mercado Khan El Khalili",
+      "Cruceros por el río Nilo",
+      "Gastronomía local y espectáculos de danza"
+    ],
+    "turismo": [
+      "Cultural",
+      "Histórico"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Luxor",
+    "pais": "Egipto",
+    "ciudad": "Luxor",
+    "clima": "Seco",
+    "idioma": "Árabe",
+    "actividades": [
+      "Visitas al Valle de los Reyes y el Valle de las Reinas",
+      "Exploración de los templos de Karnak y Luxor",
+      "Paseos en globo aerostático",
+      "Excursiones a la orilla occidental del Nilo",
+      "Espectáculos de luz y sonido"
+    ],
+    "turismo": [
+      "Cultural",
+      "Histórico"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Jerusalén",
+    "pais": "Israel",
+    "ciudad": "Jerusalén",
+    "clima": "Templado",
+    "idioma": "Hebreo, Árabe",
+    "actividades": [
+      "Visitas a lugares históricos y religiosos como el Muro de los Lamentos y la Iglesia del Santo Sepulcro",
+      "Recorridos por el Mercado de Mahane Yehuda",
+      "Exploración del Museo de Israel",
+      "Paseos por el Barrio Armenio y el Barrio Judío",
+      "Gastronomía local y mercados"
+    ],
+    "turismo": [
+      "Cultural",
+      "Histórico"
+    ],
+    "presupuesto": 120
+  },
+  {
+    "nombre": "Mar Muerto",
+    "pais": "Israel",
+    "ciudad": "Región del Mar Muerto",
+    "clima": "Seco",
+    "idioma": "Hebreo, Árabe",
+    "actividades": [
+      "Baños terapéuticos en el Mar Muerto",
+      "Excursiones al desierto de Masada y Ein Gedi",
+      "Tratamientos de spa y bienestar",
+      "Fotografía de paisajes naturales",
+      "Trekking y exploración"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Salud"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Negril",
+    "pais": "Jamaica",
+    "ciudad": "Negril",
+    "clima": "Tropical",
+    "idioma": "Inglés",
+    "actividades": [
+      "Relajación en las playas de Seven Mile Beach",
+      "Buceo y snorkel en arrecifes de coral",
+      "Visitas al Faro de Negril",
+      "Excursiones en barco y deportes acuáticos",
+      "Disfrutar de la vida nocturna y la música reggae"
+    ],
+    "turismo": [
+      "Recreativo",
+      "Romantico"
+    ],
+    "presupuesto": 130
+  },
+  {
+    "nombre": "Kingston",
+    "pais": "Jamaica",
+    "ciudad": "Kingston",
+    "clima": "Tropical",
+    "idioma": "Inglés",
+    "actividades": [
+      "Visitas al Museo Bob Marley",
+      "Recorridos históricos por la ciudad",
+      "Exploración del Parque de las Emancipaciones",
+      "Gastronomía local y mercados",
+      "Vida cultural y espectáculos"
+    ],
+    "turismo": [
+      "Cultural",
+      "Urbano"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Bahía de Halong",
+    "pais": "Vietnam",
+    "ciudad": "Quang Ninh",
+    "clima": "Tropical",
+    "idioma": "Vietnamita",
+    "actividades": [
+      "Cruceros por la bahía",
+      "Kayak entre formaciones de piedra caliza",
+      "Visitas a cuevas y aldeas flotantes",
+      "Práctica de Tai Chi al amanecer",
+      "Degustación de mariscos frescos"
+    ],
+    "turismo": [
+      "Ecológico",
+      "Recreativo"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "ciudad": "Buenos Aires",
+    "clima": "Templado",
+    "idioma": "Español",
+    "actividades": [
+      "Espectáculos de tango y visitas a milongas",
+      "Recorridos por el barrio de La Boca y Caminito",
+      "Degustación de asado argentino",
+      "Visitas a museos y teatros",
+      "Paseos por los parques de Palermo"
+    ],
+    "turismo": [
+      "Cultural",
+      "Urbano"
+    ],
+    "presupuesto": 100
+  },
+  {
+    "nombre": "Ciudad del Cabo",
+    "pais": "Sudáfrica",
+    "ciudad": "Ciudad del Cabo",
+    "clima": "Templado",
+    "idioma": "Inglés, Afrikáans, Xhosa",
+    "actividades": [
+      "Visita a la Montaña de la Mesa",
+      "Exploración de la Isla Robben",
+      "Playas como Clifton y Camps Bay",
+      "Tours vinícolas en Stellenbosch y Franschhoek",
+      "Avistamiento de tiburones blancos"
+    ],
+    "turismo": [
+      "Aventura",
+      "Cultural"
+    ],
+    "presupuesto": 150
+  },
+  {
+    "nombre": "Bangkok",
+    "pais": "Tailandia",
+    "ciudad": "Bangkok",
+    "clima": "Tropical",
+    "idioma": "Tailandés",
+    "actividades": [
+      "Visitas a templos como Wat Arun y Wat Pho",
+      "Paseos en bote por el río Chao Phraya",
+      "Exploración de mercados flotantes",
+      "Compras en el mercado de Chatuchak",
+      "Degustación de comida callejera"
+    ],
+    "turismo": [
+      "Cultural",
+      "Urbano"
+    ],
+    "presupuesto": 80
+  },
+  {
+    "nombre": "Taj Mahal",
+    "pais": "India",
+    "ciudad": "Agra",
+    "clima": "Tropical",
+    "idioma": "Hindi, Urdu",
+    "actividades": [
+      "Visita al Taj Mahal al amanecer",
+      "Recorrido por el Fuerte de Agra",
+      "Compras en el mercado de Kinari Bazar",
+      "Degustación de comida Mughlai",
+      "Paseo en barco por el río Yamuna"
+    ],
+    "turismo": [
+      "Cultural",
+      "Histórico"
+    ],
+    "presupuesto": 80
+  },
+  {
+    "nombre": "San Petersburgo",
+    "pais": "Rusia",
+    "ciudad": "San Petersburgo",
+    "clima": "Continental",
+    "idioma": "Ruso",
+    "actividades": [
+      "Visitas al Museo del Hermitage",
+      "Recorrido por el Palacio de Peterhof",
+      "Paseos por la avenida Nevsky Prospekt",
+      "Exploración de la Fortaleza de Pedro y Pablo",
+      "Espectáculos en el Teatro Mariinsky"
+    ],
+    "turismo": [
+      "Cultural",
+      "Histórico"
+    ],
+    "presupuesto": 120
+  }
+]
